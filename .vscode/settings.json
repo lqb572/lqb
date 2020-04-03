@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder}\\db.sqlite3",
+            "dialect": "SQLite",
+            "name": "11"
+        },
+        {
+            "database": "${workspaceFolder}\\db.db3",
+            "dialect": "SQLite",
+            "name": "33"
+        },
+        {
+            "database": "C:\\Users\\Administrator\\oj_sys\\db.sqlite3",
+            "dialect": "SQLite",
+            "name": "111111"
+        }
+    ],
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe"
+}
